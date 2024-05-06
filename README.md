@@ -8,4 +8,4 @@
 I am looking for CTO position <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m working as a Developer and contributing to frontend and backend more than 17 years.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-anton-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-dodonov)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-anton--dodonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-dodonov)
