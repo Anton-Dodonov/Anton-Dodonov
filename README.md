@@ -5,7 +5,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am looking for CTO position <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am open to work and looking for CTO position.
 
-- 🔭 I’m working as a Developer and contributing to frontend and backend more than 17 years.
+- 🔭 I was working as a Developer and contributing to frontend and backend more than 17 years.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-anton--dodonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-dodonov)
