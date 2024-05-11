@@ -15,5 +15,3 @@
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-anton--dodonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-dodonov)
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ananta-Shakti&theme=default)
