@@ -14,4 +14,9 @@
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-anton--dodonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-dodonov)
 
 
-
+For my opensource solutions please look my organizations repositories
+- Fitech/Crypto - https://github.com/DecentralizedMoney
+- MarketPlaces - https://github.com/eevee-market
+- AI - https://github.com/braindler
+- Plain WebPages - https://github.com/nativemindnet
+- Real Estate 
