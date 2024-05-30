@@ -15,7 +15,7 @@
 
 
 For my opensource solutions please look my organizations repositories
-- Fitech/Crypto - https://github.com/DecentralizedMoney
+- Fintech/Crypto - https://github.com/DecentralizedMoney
 - MarketPlaces - https://github.com/eevee-market
 - AI - https://github.com/braindler
 - Plain WebPages - https://github.com/nativemindnet
