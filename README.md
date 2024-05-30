@@ -15,8 +15,8 @@
 
 
 For my opensource solutions please look my organizations repositories
-- Fintech/Crypto - https://github.com/DecentralizedMoney
-- MarketPlaces - https://github.com/eevee-market
+- Fintech/Crypto/Web3 - https://github.com/DecentralizedMoney
+- MarketPlaces (Magento) - https://github.com/eevee-market
 - AI - https://github.com/braindler
-- Plain WebPages - https://github.com/nativemindnet
+- HTML, ... (Wordpress) - https://github.com/nativemindnet
 - Real Estate 
