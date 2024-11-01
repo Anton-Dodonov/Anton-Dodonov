@@ -15,10 +15,13 @@
 - 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/-anton__ananta__shakti-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/anton_ananta_shakti) [![Linkedin Badge](https://img.shields.io/badge/-anton--dodonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-dodonov) 
 
 
+For my opensource solutions please look my organizations repositories and sites:
+- Fintech: <a href="https://cex.best/">cex.best</a>
+- Crypto/Web3: <a href="https://dmny.us/">dmny.us</a> | https://github.com/DecentralizedMoney
+- MarketPlaces (Magento): https://github.com/eevee-market
+- AI: https://github.com/braindler
+- HTML, ... (Wordpress): https://github.com/nativemindnet
+- Real Estate: <a href="https://taxlien.online/">taxlien.online</a>
 
-For my opensource solutions please look my organizations repositories
-- Fintech/Crypto/Web3 - https://github.com/DecentralizedMoney
-- MarketPlaces (Magento) - https://github.com/eevee-market
-- AI - https://github.com/braindler
-- HTML, ... (Wordpress) - https://github.com/nativemindnet
-- Real Estate 
+For more information please look my website:
+<a href="https://en.nativemind.net/">nativemind.net</a>
