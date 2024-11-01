@@ -6,7 +6,7 @@
   </p>
 </div>
 
-🌍 I am on CTO position in FlyFrog. Our product is [Happ(https://apps.apple.com/vn/app/happ-proxy-utility/id6504287215)]
+🌍 I am on CTO position in FlyFrog. Our product is <a href="https://apps.apple.com/vn/app/happ-proxy-utility/id6504287215">Happ</a>
 
 - 🔭 I was working as a Developer for more than 18 years. I wrote my first program 33 years ago (Spectrum 48Kb).
 - 🥇 First time I get first place it IT hackaton 29 years ago (on 286 Pentium). I get Intel and US Army diploma in computer science fair 22 years ago (Livermore, California)
