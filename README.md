@@ -8,6 +8,7 @@
 
 🌍 Looking for a job. My last position was CTO at Happ / FlyFrog VPN. Our product was <a href="https://apps.apple.com/vn/app/happ-proxy-utility/id6504287215">Happ</a> (iOS, Android and Desktop versions)
 
+- Last team, I managed was: 2 iOS Developers, 2 Android Developers, 1 Desktop Developer, 1 Backend Developer, 4 Testers, 1 Support
 - 🔭 I was working as a Developer for more than 20 years. I wrote my first program 33 years ago (Spectrum 48Kb).
 - 🥇 First time I get first place it IT hackaton 29 years ago (on Intel 286 SX). I get Intel and US Army diploma in computer science fair 22 years ago (Livermore, California)
 - 🗣️ I speak Russian and English. Going to learn Thai.
