@@ -25,5 +25,7 @@ For my opensource solutions please look my organizations repositories and sites:
 - HTML, ... (Wordpress): https://github.com/nativemindnet
 - Real Estate: <a href="https://taxlien.online/">taxlien.online</a>
 
-For more information please look my website:
-<a href="https://en.nativemind.net/">nativemind.net</a>
+For more information please look my website (some mirrors can be temporary down because some VDS issues):
+- <a href="https://nativemind.net/">nativemind.net</a> (Thai version)
+- <a href="https://en.nativemind.net/">en.nativemind.net</a> (English version)
+- <a href="https://nativemind.ru/">nativemind.ru</a> (Russian version)
