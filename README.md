@@ -21,7 +21,7 @@ I’m actively seeking new challenges as a Chief Technology Officer, bringing my
   - Earned Intel and US Army diplomas at a Computer Science Fair **22 years ago** (Livermore, California).  
 
 - 👥 **Team Management Experience**:
-  -  I also lead [NativeMind](https://github.com/NativeMindNet), own team of developers, a tight-knit professional family. 
+  -  My Business is [NativeMind](https://github.com/NativeMindNet), team of developers, a tight-knit professional family, was started **17 years ago**.
 
 - 🗣️ **Languages**: Fluent in **Russian** and **English**, currently learning **Thai**.  
 - 📍 **Current Location**: Chiang Mai, Thailand.
