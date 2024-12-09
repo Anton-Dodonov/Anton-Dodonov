@@ -14,14 +14,15 @@ I’m actively seeking new challenges as a Chief Technology Officer, bringing my
   - Managed a team of **10 professionals**:
     - **2 iOS Developers**, **2 Android Developers**, **1 Desktop Developer**, **1 Backend Developer**, **4 Testers**, and **1 Support Specialist**.
   - Delivered [**iOS**](https://apps.apple.com/vn/app/happ-proxy-utility/id6504287215), **Android**, and **Desktop versions** of our flagship product: Happ.
+
+- 👥 **Team Management Experience**:
+  -  My Business is [NativeMind](https://github.com/NativeMindNet), team of developers, a tight-knit professional family, was started **17 years ago**.
+    - Now team is **Self-Managed** 
  
 - 💻 **Development Experience**:  
   - Started coding **33 years ago** on a Spectrum 48Kb.  
   - First time, won **1st place** at an IT hackathon **29 years ago** (Intel 286 SX).  
   - Earned Intel and US Army diplomas at a Computer Science Fair **22 years ago** (Livermore, California).  
-
-- 👥 **Team Management Experience**:
-  -  My Business is [NativeMind](https://github.com/NativeMindNet), team of developers, a tight-knit professional family, was started **17 years ago**.
 
 - 🗣️ **Languages**: Fluent in **Russian** and **English**, currently learning **Thai**.  
 - 📍 **Current Location**: Chiang Mai, Thailand.
