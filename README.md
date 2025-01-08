@@ -31,13 +31,6 @@ I’m actively seeking new challenges as a Chief Technology Officer, bringing my
 - 📫 Feel free to connect or reach out: &nbsp; [![Telegram Badge](https://img.shields.io/badge/-anton__ananta__shakti-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/anton_ananta_shakti) [![Linkedin Badge](https://img.shields.io/badge/-anton--dodonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-dodonov) [![Line Badge](https://img.shields.io/badge/-anantashakti-00C300?style=flat&logo=LINE&logoColor=white)](https://line.me/ti/p/~anantashakti)
 
 
-<img 
-  src="https://nativemind.ru/track" 
-  alt="Yandex Metrika" 
-  width="5" 
-  height="5" 
-  style="border:0;"
-/>
 
 <img 
   src="https://mc.yandex.ru/watch/99440278" 
