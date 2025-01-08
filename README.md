@@ -32,9 +32,17 @@ I’m actively seeking new challenges as a Chief Technology Officer, bringing my
 
 
 <img 
+  src="https://nativemind.ru/track" 
+  alt="Yandex Metrika" 
+  width="5" 
+  height="5" 
+  style="border:0;"
+/>
+
+<img 
   src="https://mc.yandex.ru/watch/99440278" 
   alt="Yandex Metrika" 
-  width="1" 
-  height="1" 
+  width="5" 
+  height="5" 
   style="border:0;"
 />
