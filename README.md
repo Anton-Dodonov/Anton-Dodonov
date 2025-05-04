@@ -30,7 +30,7 @@ I’m actively seeking new challenges as a Chief Technology Officer, bringing my
 
 ### 🏅 Diplomas
 
-[![Intel](Intel_200.jpg)](Intel.jpg)
+[![Intel](Intel_small.jpg)](Intel.jpg)
 ![Intel](Intel.jpeg)
 ![US Army](USArmy.jpeg)
 
