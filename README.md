@@ -27,6 +27,12 @@ I’m actively seeking new challenges as a Chief Technology Officer, bringing my
 - 🗣️ **Languages**: Fluent in **Russian** and **English**, currently learning **Thai**.  
 - 📍 **Current Location**: Chiang Mai, Thailand.
 
+
+### 🏅 Diplomas
+
+![Intel](Intel.jpeg)
+![US Army](USArmy.jpeg)
+
 ### 💬 **How to Reach Me**
 - 📫 Feel free to connect or reach out: &nbsp; [![Telegram Badge](https://img.shields.io/badge/-AntonDodonov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/anton_ananta_shakti) [![Linkedin Badge](https://img.shields.io/badge/-anton--dodonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-dodonov) [![Line Badge](https://img.shields.io/badge/-anantashakti-00C300?style=flat&logo=LINE&logoColor=white)](https://line.me/ti/p/~anantashakti)
 
