@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <h1>👋 Hi there, I'm Anton</h1>
   <h3>🚀 CTO with 20+ years of Commercial Development Experience</h3>
-  <p align="center">
-  <a href="https://www.linkedin.com/in/anton-dodonov"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  </p>
 </div>
 
 
